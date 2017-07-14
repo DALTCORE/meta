@@ -1,0 +1,24 @@
+{
+  "name": "daltcore/meta",
+  "description": "A meta composer package for our Laravel packages.",
+  "keywords": ["php", "tools"],
+  "type": "metapackage",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ramon Smit",
+      "email": "rsmit@daltcore.com",
+      "homepage": "https://daltcore.com"
+    }
+  ],
+  "require": {
+    "squizlabs/php_codesniffer": "~2.0",
+    "friendsofphp/php-cs-fixer": "~1.0",
+    "daltcore/laravel-deploy-helper": "^1.1",
+    "daltcore/laravel-useful-helpers": "^1.0",
+    "daltcore/permissions": "^1.0"
+  },
+  "suggest": {
+    "daltcore/tarpit": "HTTP-Tarpit.org integration for Laravel"
+  }
+}

@@ -12,8 +12,6 @@
     }
   ],
   "require": {
-    "squizlabs/php_codesniffer": "~2.0",
-    "friendsofphp/php-cs-fixer": "~1.0",
     "daltcore/laravel-deploy-helper": "^1.1",
     "daltcore/laravel-useful-helpers": "^1.0",
     "daltcore/permissions": "^1.0"

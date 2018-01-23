@@ -14,7 +14,8 @@
   "require": {
     "daltcore/laravel-deploy-helper": "^1.1",
     "daltcore/laravel-useful-helpers": "^1.0",
-    "daltcore/permissions": "^1.0"
+    "daltcore/permissions": "^1.0",
+    "daltcore/registery": "^1.0"
   },
   "suggest": {
     "daltcore/tarpit": "HTTP-Tarpit.org integration for Laravel"
